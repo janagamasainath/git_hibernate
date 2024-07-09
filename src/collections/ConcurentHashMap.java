@@ -12,6 +12,7 @@ map.put("sainath", 0);
 map.put("saritha", 20);
 map.put("pranvi", 10);
 map.put("anil", 15);
+map.put(null, null);
 
 for(Map.Entry<String, Integer> a: map.entrySet()) {
 	String key = a.getKey();
