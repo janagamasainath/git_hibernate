@@ -1,10 +1,9 @@
 package collections;
 
-public class ListArray {
+public class AllCollectionsExample {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		//hello how are you
 
 	}
 
